@@ -1,2 +1,1 @@
-﻿Console.WriteLine("podaj imie:");
-Console.ReadLine();
+﻿Console.WriteLine("podaj imie:")
